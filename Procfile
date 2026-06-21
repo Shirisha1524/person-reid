@@ -1,0 +1,1 @@
+web: gunicorn Person.wsgi:application
