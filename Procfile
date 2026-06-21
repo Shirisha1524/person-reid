@@ -1,1 +1,1 @@
-web: gunicorn Person.wsgi:application
+web: gunicorn Person.wsgi:application --timeout 120 --workers 1 --threads 2
