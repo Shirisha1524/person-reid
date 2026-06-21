@@ -4,7 +4,7 @@ h5py==3.7.0
 joblib
 matplotlib
 mtcnn==0.1.0
-numpy==1.21.6
+numpy==1.23.5
 opencv-contrib-python-headless==4.8.0.76
 pandas
 Pillow
